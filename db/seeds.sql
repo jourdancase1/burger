@@ -1,0 +1,1 @@
+-- populate burger db with at least three entries
