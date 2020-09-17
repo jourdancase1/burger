@@ -14,5 +14,5 @@ MIT
      
 ### Questions? Contact me at: 
 jourdancase11@gmail.com </br>
-jourdancase1         
+github.com/jourdancase1         
 
